@@ -4,11 +4,11 @@
 
 ---
 
-Your network has 188 doors to AI services. Most of them are wide open.
+Your network has hundreds of doors to AI services. Most of them are wide open.
 
-This dataset catalogs AI service domains across LLM providers, SaaS platforms with embedded AI, multimodal generators, and voice/audio tools. Four CSV files. 11 countries. Every category of AI your security team should be tracking.
+This dataset catalogs AI service domains across LLM providers, SaaS platforms with embedded AI, multimodal generators, and voice/audio tools.  Every category of AI your security team should be tracking.
 
-The goal isn't to block everything. It's to know what's out there so you can make informed decisions instead of discovering shadow AI usage in your next incident review.
+The goal isn't to block everything.  It's to know what's out there so you can make informed decisions instead of discovering shadow AI usage in your next incident review.
 
 ## Why This Matters
 
