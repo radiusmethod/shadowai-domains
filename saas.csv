@@ -1,0 +1,53 @@
+Domain,Category,Subcategory,Country,Notes
+*.salesforce.com,SaaS / Enterprise,CRM / Sales,USA,Einstein AI - review before blocking will break Salesforce
+*.hubspot.com,SaaS / Enterprise,CRM / Sales,USA,HubSpot Breeze AI
+*.apollo.io,SaaS / Enterprise,CRM / Sales,USA,Apollo AI enrichment
+*.outreach.io,SaaS / Enterprise,CRM / Sales,USA,Outreach AI
+*.salesloft.com,SaaS / Enterprise,CRM / Sales,USA,Salesloft AI
+*.gong.io,SaaS / Enterprise,CRM / Sales,USA,Gong AI conversation intelligence
+*.chorus.ai,SaaS / Enterprise,CRM / Sales,USA,Chorus by ZoomInfo
+*.clay.com,SaaS / Enterprise,CRM / Sales,USA,Clay AI enrichment
+*.zapier.com,SaaS / Enterprise,Productivity / Automation,USA,Zapier AI
+*.make.com,SaaS / Enterprise,Productivity / Automation,USA,Make (formerly Integromat) AI
+*.airtable.com,SaaS / Enterprise,Productivity / Automation,USA,Airtable AI
+*.monday.com,SaaS / Enterprise,Productivity / Automation,Israel,Monday AI
+*.asana.com,SaaS / Enterprise,Productivity / Automation,USA,Asana AI
+*.clickup.com,SaaS / Enterprise,Productivity / Automation,USA,ClickUp AI
+*.notion.so,SaaS / Enterprise,Productivity / Automation,USA,Notion AI - review before blocking will break Notion
+*.coda.io,SaaS / Enterprise,Productivity / Automation,USA,Coda AI
+*.zoom.us,SaaS / Enterprise,Communication / Meetings,USA,Zoom AI Companion - review before blocking will break Zoom
+*.teams.microsoft.com,SaaS / Enterprise,Communication / Meetings,USA,Teams Copilot - review before blocking will break Teams
+*.slack.com,SaaS / Enterprise,Communication / Meetings,USA,Slack AI - review before blocking will break Slack
+*.fireflies.ai,SaaS / Enterprise,Communication / Meetings,USA,Fireflies meeting AI
+*.otter.ai,SaaS / Enterprise,Communication / Meetings,USA,Otter.ai transcription
+*.fathom.video,SaaS / Enterprise,Communication / Meetings,USA,Fathom meeting notetaker
+*.avoma.com,SaaS / Enterprise,Communication / Meetings,USA,Avoma meeting AI
+*.grain.com,SaaS / Enterprise,Communication / Meetings,USA,Grain meeting AI
+*.workday.com,SaaS / Enterprise,HR / Recruiting,USA,Workday AI - review before blocking will break Workday
+*.greenhouse.io,SaaS / Enterprise,HR / Recruiting,USA,Greenhouse AI recruiting
+*.lever.co,SaaS / Enterprise,HR / Recruiting,USA,Lever AI recruiting
+*.ashbyhq.com,SaaS / Enterprise,HR / Recruiting,USA,Ashby AI recruiting
+*.paradox.ai,SaaS / Enterprise,HR / Recruiting,USA,Paradox recruiting AI
+*.box.com,SaaS / Enterprise,Document / Knowledge,USA,Box AI - review before blocking will break Box
+*.dropbox.com,SaaS / Enterprise,Document / Knowledge,USA,Dropbox Dash AI - review before blocking will break Dropbox
+*.docusign.com,SaaS / Enterprise,Document / Knowledge,USA,DocuSign AI - review before blocking will break DocuSign
+*.adobe.com,SaaS / Enterprise,Document / Knowledge,USA,Adobe Firefly/Sensei - review before blocking will break Adobe
+*.gamma.app,SaaS / Enterprise,Document / Knowledge,USA,Gamma AI presentations
+*.tome.app,SaaS / Enterprise,Document / Knowledge,USA,Tome AI presentations
+*.tableau.com,SaaS / Enterprise,Data / Analytics,USA,Tableau AI - review before blocking will break Tableau
+*.powerbi.com,SaaS / Enterprise,Data / Analytics,USA,Power BI Copilot - review before blocking will break Power BI
+*.hex.tech,SaaS / Enterprise,Data / Analytics,USA,Hex AI notebooks
+*.thoughtspot.com,SaaS / Enterprise,Data / Analytics,USA,ThoughtSpot AI analytics
+*.intercom.com,SaaS / Enterprise,Customer Support,USA,Intercom Fin AI
+*.zendesk.com,SaaS / Enterprise,Customer Support,USA,Zendesk AI - review before blocking will break Zendesk
+*.freshworks.com,SaaS / Enterprise,Customer Support,USA,Freshworks AI
+*.drift.com,SaaS / Enterprise,Customer Support,USA,Drift AI
+*.ada.cx,SaaS / Enterprise,Customer Support,Canada,Ada AI support
+*.servicenow.com,SaaS / Enterprise,Customer Support,USA,Now Assist - review before blocking will break ServiceNow
+*.moveworks.com,SaaS / Enterprise,Customer Support,USA,Moveworks enterprise AI
+*.aisera.com,SaaS / Enterprise,Customer Support,USA,AISera enterprise AI
+*.forethought.ai,SaaS / Enterprise,Customer Support,USA,Forethought enterprise AI
+*.writer.com,SaaS / Enterprise,Content / Writing,USA,Writer enterprise LLM
+*.scale.com,SaaS / Enterprise,Data / Analytics,USA,Scale AI platform
+*.adept.ai,SaaS / Enterprise,Agent / Automation,USA,Adept AI agents
+*.glean.com,SaaS / Enterprise,Document / Knowledge,USA,Glean enterprise AI search

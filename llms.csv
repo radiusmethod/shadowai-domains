@@ -1,0 +1,124 @@
+Domain,Category,Subcategory,Country,Notes
+*.openai.com,Frontier / Consumer,OpenAI,USA,Main OpenAI endpoints
+*.oaiusercontent.com,Frontier / Consumer,OpenAI,USA,OpenAI user content
+chatgpt.com,Frontier / Consumer,OpenAI,USA,ChatGPT standalone domain
+*.anthropic.com,Frontier / Consumer,Anthropic,USA,Main Anthropic endpoints
+claude.ai,Frontier / Consumer,Anthropic,USA,Claude web interface
+gemini.google.com,Frontier / Consumer,Google,USA,Gemini web interface
+aistudio.google.com,Frontier / Consumer,Google,USA,Google AI Studio
+*.generativelanguage.googleapis.com,Frontier / Consumer,Google,USA,Gemini API
+*.grok.com,Frontier / Consumer,xAI,USA,Grok web interface
+grok.x.ai,Frontier / Consumer,xAI,USA,Grok API
+x.ai,Frontier / Consumer,xAI,USA,xAI parent domain
+copilot.microsoft.com,Frontier / Consumer,Microsoft,USA,Microsoft Copilot
+*.mistral.ai,Frontier / Consumer,Mistral,France,Mistral AI
+*.cohere.com,Frontier / Consumer,Cohere,Canada,Cohere platform
+api.cohere.ai,Frontier / Consumer,Cohere,Canada,Cohere API
+*.ai21.com,Frontier / Consumer,AI21,Israel,AI21 Labs
+*.aleph-alpha.com,Frontier / Consumer,Aleph Alpha,Germany,Aleph Alpha
+*.deepseek.com,Frontier / Consumer,DeepSeek,China,DeepSeek - widely used
+*.alibabacloud.com,Frontier / Consumer,Alibaba,China,Alibaba Cloud AI services
+*.qwen.com,Frontier / Consumer,Alibaba,China,Qwen consumer LLM
+*.ernie.bot,Frontier / Consumer,Baidu,China,Ernie Bot by Baidu
+*.wenxin.baidu.com,Frontier / Consumer,Baidu,China,Wenxin/ERNIE platform
+yiyan.baidu.com,Frontier / Consumer,Baidu,China,Baidu Yiyan (ERNIE Bot)
+*.doubao.com,Frontier / Consumer,ByteDance,China,Doubao LLM by ByteDance
+*.coze.com,Frontier / Consumer,ByteDance,China,Coze AI platform by ByteDance
+*.zhipuai.cn,Frontier / Consumer,Zhipu AI,China,ChatGLM / Zhipu AI
+*.moonshot.cn,Frontier / Consumer,Moonshot,China,Kimi by Moonshot AI
+kimi.ai,Frontier / Consumer,Moonshot,China,Kimi web interface
+*.minimax.chat,Frontier / Consumer,MiniMax,China,MiniMax / Hailuo AI
+*.01.ai,Frontier / Consumer,01.AI,China,Yi models by 01.AI
+*.strongwall.ai,Frontier / Consumer,StrongWall,Unknown,StrongWall AI
+*.openai.azure.com,Cloud Provider AI,Azure,USA,Azure OpenAI - overlaps with legitimate Azure usage
+bedrock.*.amazonaws.com,Cloud Provider AI,AWS,USA,AWS Bedrock - overlaps with legitimate AWS usage
+bedrock-runtime.*.amazonaws.com,Cloud Provider AI,AWS,USA,AWS Bedrock runtime - overlaps with legitimate AWS usage
+*.aiplatform.googleapis.com,Cloud Provider AI,Google Cloud,USA,Google Vertex AI - overlaps with legitimate GCP usage
+api.together.ai,Cloud Provider AI,Together AI,USA,Together AI
+api.together.xyz,Cloud Provider AI,Together AI,USA,Together AI alternate domain
+api.groq.com,Cloud Provider AI,Groq,USA,Groq inference
+*.fireworks.ai,Cloud Provider AI,Fireworks,USA,Fireworks AI
+*.lepton.ai,Cloud Provider AI,Lepton,USA,Lepton AI
+*.perplexity.ai,Aggregators / Wrappers,Perplexity,USA,Perplexity AI
+poe.com,Aggregators / Wrappers,Poe,USA,Poe by Quora
+*.poe.com,Aggregators / Wrappers,Poe,USA,Poe subdomains
+*.you.com,Aggregators / Wrappers,You.com,USA,You.com AI search
+*.phind.com,Aggregators / Wrappers,Phind,USA,Phind developer search
+*.character.ai,Aggregators / Wrappers,Character AI,USA,Character AI
+*.c.ai,Aggregators / Wrappers,Character AI,USA,Character AI short domain
+*.inflection.ai,Aggregators / Wrappers,Inflection,USA,Pi by Inflection
+*.meta.ai,Aggregators / Wrappers,Meta,USA,Meta AI
+llama.meta.com,Aggregators / Wrappers,Meta,USA,Llama downloads/endpoints
+*.huggingface.co,Open Source Inference,Hugging Face,USA,Hugging Face platform
+*.hf.space,Open Source Inference,Hugging Face,USA,Hugging Face Spaces
+*.replicate.com,Open Source Inference,Replicate,USA,Replicate platform
+replicate.delivery,Open Source Inference,Replicate,USA,Replicate delivery CDN
+*.modal.com,Open Source Inference,Modal,USA,Modal Labs
+*.runpod.io,Open Source Inference,RunPod,USA,RunPod inference
+*.vast.ai,Open Source Inference,Vast.ai,USA,Vast.ai GPU marketplace
+ollama.ai,Open Source Inference,Ollama,USA,Ollama download endpoints (usually local runtime)
+*.githubcopilot.com,Dev Tooling / IDE,GitHub Copilot,USA,GitHub Copilot
+copilot-proxy.githubusercontent.com,Dev Tooling / IDE,GitHub Copilot,USA,Copilot proxy
+*.codeium.com,Dev Tooling / IDE,Codeium,USA,Codeium AI coding
+*.tabnine.com,Dev Tooling / IDE,Tabnine,USA,Tabnine AI coding
+*.cursor.so,Dev Tooling / IDE,Cursor,USA,Cursor IDE
+*.cursor.com,Dev Tooling / IDE,Cursor,USA,Cursor IDE
+api2.cursor.sh,Dev Tooling / IDE,Cursor,USA,Cursor API
+*.continue.dev,Dev Tooling / IDE,Continue,USA,Continue.dev open source copilot
+*.supermaven.com,Dev Tooling / IDE,Supermaven,USA,Supermaven AI coding
+*.notion.so,Productivity / Workflow,Notion,USA,Notion AI - will break Notion if blocked
+*.grammarly.com,Productivity / Workflow,Grammarly,USA,Grammarly AI
+*.jasper.ai,Productivity / Workflow,Jasper,USA,Jasper AI writing
+*.copy.ai,Productivity / Workflow,Copy.ai,USA,Copy.ai writing
+*.writesonic.com,Productivity / Workflow,Writesonic,USA,Writesonic
+*.otter.ai,Productivity / Workflow,Otter.ai,USA,Otter.ai transcription
+*.glean.com,Productivity / Workflow,Glean,USA,Glean enterprise AI search
+*.langchain.com,Agent / Orchestration,LangChain,USA,LangChain platform
+api.smith.langchain.com,Agent / Orchestration,LangChain,USA,LangSmith observability
+*.llamaindex.ai,Agent / Orchestration,LlamaIndex,USA,LlamaIndex platform
+*.dust.tt,Agent / Orchestration,Dust,France,Dust.tt agent platform
+*.fixie.ai,Agent / Orchestration,Fixie,USA,Fixie AI agents
+*.openrouter.ai,Aggregators / Wrappers,OpenRouter,USA,Aggregates dozens of models - single endpoint bypasses per-provider blocking
+*.sensetime.com,Frontier / Consumer,SenseTime,China,SenseTime AI - on US entity list
+*.iflytek.com,Frontier / Consumer,iFlytek,China,iFlytek NLP - on US entity list
+*.baai.ac.cn,Frontier / Consumer,BAAI,China,Beijing Academy of AI - open model releases
+*.modelscope.cn,Frontier / Consumer,ModelScope,China,Alibaba's Hugging Face equivalent
+*.tiangong.cn,Frontier / Consumer,Tiangong,China,Kunlun Tech Tiangong LLM
+*.stepfun.com,Frontier / Consumer,StepFun,China,Step-1 models
+*.360.cn,Frontier / Consumer,Qihoo 360,China,Qihoo 360 AI products
+*.yandex.com,Frontier / Consumer,Yandex,Russia,YandexGPT
+*.ya.ru,Frontier / Consumer,Yandex,Russia,YandexGPT alternate domain
+gigachat.sber.ru,Frontier / Consumer,Sberbank,Russia,GigaChat by Sberbank
+*.sber.ru,Frontier / Consumer,Sberbank,Russia,Sberbank AI platform
+*.ai.vk.com,Frontier / Consumer,VK,Russia,VK (formerly Mail.ru) AI
+*.falconllm.tii.ae,Frontier / Consumer,TII,UAE,Falcon LLM - UAE Technology Innovation Institute - review for defense context
+*.ai71.ai,Frontier / Consumer,AI71,UAE,AI71 UAE sovereign AI - review for defense context
+*.replit.com,Dev Tooling / IDE,Replit,USA,Replit AI - widely used
+*.sourcegraph.com,Dev Tooling / IDE,Sourcegraph,USA,Cody AI coding assistant
+*.codium.ai,Dev Tooling / IDE,CodiumAI,Israel,CodiumAI - different from Codeium
+*.pieces.app,Dev Tooling / IDE,Pieces,USA,Pieces for Developers AI
+*.refact.ai,Dev Tooling / IDE,Refact,USA,Refact.ai coding assistant
+*.softgen.ai,Dev Tooling / IDE,Softgen,USA,Softgen AI
+*.pythagora.ai,Dev Tooling / IDE,Pythagora,USA,GPT Pilot by Pythagora
+*.anyscale.com,Cloud Provider AI,Anyscale,USA,Anyscale Endpoints - Ray/LLM serving
+*.octoai.cloud,Cloud Provider AI,OctoAI,USA,OctoAI inference
+*.deepinfra.com,Cloud Provider AI,Deep Infra,USA,Deep Infra inference
+*.novita.ai,Cloud Provider AI,Novita,USA,Novita AI inference
+*.fal.ai,Cloud Provider AI,fal.ai,USA,fal.ai image/LLM inference
+*.cerebras.ai,Cloud Provider AI,Cerebras,USA,Cerebras inference
+*.sambanova.ai,Cloud Provider AI,SambaNova,USA,SambaNova inference
+*.hyperbolic.xyz,Cloud Provider AI,Hyperbolic,USA,Hyperbolic inference
+*.kagi.com,Search / AI Search,Kagi,USA,Kagi AI search
+*.exa.ai,Search / AI Search,Exa,USA,Exa AI search
+*.bing.com,Search / AI Search,Microsoft,USA,Copilot/Bing AI - review before blocking will break Bing search
+*.kunlun.com,Frontier / Consumer,Kunlun Tech,China,Kunlun Tech parent company
+*.sensechat.com,Frontier / Consumer,SenseTime,China,SenseChat by SenseTime
+*.spark-app.xfyun.cn,Frontier / Consumer,iFlytek,China,iFlytek Spark - on US entity list
+*.hunyuan.tencent.com,Frontier / Consumer,Tencent,China,Hunyuan by Tencent
+*.wanzhi.com,Frontier / Consumer,Tencent,China,Wanzhi by Tencent
+*.xinghuo.xfyun.cn,Frontier / Consumer,iFlytek,China,iFlytek Xinghuo - on US entity list
+*.tongyi.aliyun.com,Frontier / Consumer,Alibaba,China,Tongyi Qianwen - different from qwen.com
+*.lighton.ai,Frontier / Consumer,LightOn,France,LightOn LLM
+*.kyutai.org,Frontier / Consumer,Kyutai,France,Kyutai open source LLM
+*.silo.ai,Frontier / Consumer,Silo AI,Finland,Silo AI - acquired by AMD
+*.core42.ai,Frontier / Consumer,Core42,UAE,Core42 UAE AI - review for defense context

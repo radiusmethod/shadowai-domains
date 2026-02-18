@@ -1,0 +1,9 @@
+Domain,Category,Subcategory,Country,Notes
+*.midjourney.com,Image / Multimodal,Midjourney,USA,Midjourney image generation
+*.stability.ai,Image / Multimodal,Stability AI,UK,Stable Diffusion API
+*.ideogram.ai,Image / Multimodal,Ideogram,USA,Ideogram image generation
+*.runwayml.com,Image / Multimodal,Runway ML,USA,Runway ML video/image generation
+*.pika.art,Image / Multimodal,Pika,USA,Pika video generation
+*.sora.com,Image / Multimodal,Sora,USA,OpenAI Sora - also covered by *.openai.com
+*.kling.ai,Image / Multimodal,Kling,China,Kling video by Kuaishou
+*.hailuoai.video,Image / Multimodal,Hailuo,China,Hailuo video by MiniMax
